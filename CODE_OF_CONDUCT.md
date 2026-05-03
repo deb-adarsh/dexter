@@ -50,7 +50,7 @@ I welcome and encourage the following:
 - ❌ **Remove or modify copyright notices** from the source code
 - ❌ **Use this code for commercial purposes** without permission
 
-**This project is open source under the MIT License, but that does NOT grant you the right to:**
+**This project is open source under the Apache License 2.0, but that does NOT grant you the right to:**
 - Release competing apps using this codebase
 - Claim this work as your own
 - Bypass the contribution process by copying and re-releasing
@@ -81,7 +81,7 @@ If you want to:
 
 ## 🔐 Licensing Reminder
 
-This project is licensed under the **MIT License** (see [LICENSE](LICENSE) file), which means:
+This project is licensed under the **Apache License 2.0** (see [LICENSE](LICENSE) file), which means:
 
 ### ✅ You CAN:
 - Use the code for learning and personal projects
@@ -211,4 +211,3 @@ Thank you for being part of the Dexter community! Your respect for these guideli
 *This Code of Conduct is adapted from best practices in open-source communities and tailored for the Dexter project.*
 
 **Last Updated**: November 2025
-
