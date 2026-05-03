@@ -210,4 +210,4 @@ Thank you for being part of the Dexter community! Your respect for these guideli
 
 *This Code of Conduct is adapted from best practices in open-source communities and tailored for the Dexter project.*
 
-**Last Updated**: November 2025
+**Last Updated**: May 2026
